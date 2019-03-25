@@ -35,13 +35,20 @@ h1 {
   font-size: 70px;
 }
 
+h2 {
+  font-size: 32px;
+}
+
+h3{
+  font-size: 23px;
+}
 /*links*/
 a {
   font-size: 18px;
 }
 
 a:visited {
-  color: white;
+  color: white; /*also includes a:hover, a:link and a:active*/
 }
 
 /*list*/
